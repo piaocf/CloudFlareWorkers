@@ -8,7 +8,7 @@ const upstream_path = '/'
 const upstream_mobile = 'github.com'
 
 // Countries and regions where you wish to suspend your service.
-const blocked_region = ['CN', 'KP', 'SY', 'PK', 'CU']
+const blocked_region = ['KP', 'SY', 'PK', 'CU']
 
 // IP addresses which you wish to block from using your service.
 const blocked_ip_address = ['0.0.0.0', '127.0.0.1']
